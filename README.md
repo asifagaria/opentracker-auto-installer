@@ -11,8 +11,9 @@ First, we clone the git :
 ```
 git clone https://github.com/asifagaria/Opentracker-Auto-installer
 cd Opentracker-Auto-installer
-Then we make the script executable :
 ```
+Then we make the script executable :
+
 ```
 [sudo] chown [user] opentracker-auto-installer.sh
 [sudo] chmod 755 opentracker-auto-installer.sh 
