@@ -10,7 +10,7 @@ This script was originaly created by YIFY team on Google Code but no longer upda
 First, we clone the git :
 ```
 git clone https://github.com/asifagaria/Opentracker-Auto-installer
-cd opentracker-auto-installer
+cd Opentracker-Auto-installer
 Then we make the script executable :
 ```
 ```
